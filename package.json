@@ -1,12 +1,12 @@
 {
   "name": "@sermons/reveal-skel",
   "repository": "sermons/reveal-skel",
-  "description": "A template for Reveal.js-based presentations",
+  "description": "One Foundation: Christian Life and Conduct",
   "keywords": [
     "slides",
-    "lectures",
+    "sermon",
     "talks",
-    "ppt"
+    "foundation"
   ],
   "version": "1.4.2",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
@@ -23,14 +23,14 @@
     },
     "history": [
       {
-        "venue": "Venue of talk",
-        "city": "Location",
-        "date": "2000-01-01",
+        "venue": "Peace Chinese Mennonite",
+        "city": "Richmond",
+        "date": "2017-08-13",
         "duration": 0
       }
     ],
     "slides": [
-      "slides/sample.md"
+      "slides/slides.md"
     ],
     "css": [
       {

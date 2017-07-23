@@ -1,9 +1,9 @@
-# reveal-skel
-## A Template for Presentations in [Reveal.js](https://github.com/hakimel/reveal.js/)
+# One Foundation (4/5):
+## Christian Life and Conduct
 
-[![Build status](https://travis-ci.org/sermons/reveal-skel.svg)](https://travis-ci.org/sermons/reveal-skel)
-[![Node deps](https://david-dm.org/sermons/reveal-skel.svg)](https://david-dm.org/sermons/reveal-skel)
-[![Node devDeps](https://david-dm.org/sermons/reveal-skel/dev-status.svg)](https://david-dm.org/sermons/reveal-skel#info=devDependencies)
+[![Build status](https://travis-ci.org/sermons/found-life.svg)](https://travis-ci.org/sermons/found-life)
+[![Node deps](https://david-dm.org/sermons/found-life.svg)](https://david-dm.org/sermons/found-life)
+[![Node devDeps](https://david-dm.org/sermons/found-life/dev-status.svg)](https://david-dm.org/sermons/found-life#info=devDependencies)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
