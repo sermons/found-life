@@ -1,6 +1,6 @@
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-bEbqpPeHEM4-kneel_beach.jpg" -->
 ## One Foundation (4):
-# Christian Life and Conduct
+# Christian Life <br/> and Conduct
 
 <div class="ref">
 [(Elbing Catechism)](https://archive.org/details/catechismorbrief00elbi)
