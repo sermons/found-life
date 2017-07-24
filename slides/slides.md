@@ -33,7 +33,16 @@
 1. Church **Discipline**
 
 ---
-(1)
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-bEbqpPeHEM4-kneel_beach.jpg" -->
+For we are his **workmanship**, <br/>
+created in Christ Jesus for **good works**,
+
+which God prepared beforehand, <br/>
+that we should **walk** in them.
+
+<div class="ref">
+Ephesians 2:10 (ESV)
+</div>
 
 ---
 <!-- .slide: data-background="white" -->
