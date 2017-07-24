@@ -25,6 +25,12 @@
 
 ---
 ## Wk4: Life and Conduct
+1. **Revenge** and Suffering
+1. Government and **Oaths**
+1. **Marriage** and Family
+1. **Prayer**
+1. **Knowing** and Doing
+1. Church **Discipline**
 
 ---
 (1)
