@@ -11,8 +11,8 @@
   "version": "1.4.2",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
-    "pretty_url": "reveal-skel.seanho.com",
-    "cname": "reveal-skel.seanho.com",
+    "pretty_url": "found-life.seanho.com",
+    "cname": "found-life.seanho.com",
     "multiplex": {
       "url": "https://mp.seanho.com:8443/",
       "id": "22bc761ffc97809b"
