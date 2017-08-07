@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-bEbqpPeHEM4-kneel_beach.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-3LOlnKre5XE-vancouver.jpg" -->
 ## One Foundation (4):
 # Christian Life <br/> and Conduct
 
@@ -24,6 +24,7 @@
   1. **Consummation** <span class="ref">(wk 5)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-3LOlnKre5XE-vancouver.jpg" -->
 ## Wk4: Life and Conduct
 1. **Revenge** and Suffering
 1. Government and **Oaths**
@@ -69,4 +70,7 @@ Ephesians 2:10 (ESV)
 # Q3
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-3LOlnKre5XE-vancouver.jpg" -->
 (closing)
+
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-3LOlnKre5XE-vancouver.jpg" class="empty" -->
