@@ -76,6 +76,31 @@ Matthew 5:44-45 (NASB)
 </div>
 
 ---
+Let every person be subject to the governing **authorities**.
+
+For there is no authority except **from God**,  <br/>
+and those that exist have been **instituted** by God.
+
+<div class="ref">
+Romans 13:1 (ESV)
+</div>
+
+---
+I say to you, Do not take an **oath** at all, <br/>
+either by **heaven**, for it is the throne of God, <br/>
+or by the **earth**, for it is his footstool, [...]
+
+And do not take an oath by your **head**, <br/>
+for you cannot make one hair white or black.
+
+Let what you say be simply ‘**Yes**’ or ‘**No**’; <br/>
+anything more than this comes from **evil**.
+
+<div class="ref">
+Matthew 5:34-37 (ESV)
+</div>
+
+---
 <!-- .slide: data-background="white" -->
 # Q1
 
