@@ -36,6 +36,7 @@ Ephesians 2:10 (ESV)
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-2PODhmrvLik-heart_sunset.jpg" -->
 Let your **light** shine before men in <br/>
 such a way that they may see your **good works**, <br/>
 and **glorify** your Father who is in heaven
@@ -53,6 +54,7 @@ Matthew 5:16 (NASB)
 1. Church **Discipline**
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-in9-n0JwgZ0-lightning.jpg" -->
 Never take your own **revenge**, beloved,  <br/>
 but leave **room** for the wrath of God,  <br/>
 
@@ -64,6 +66,7 @@ Romans 12:19 (NASB)
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" -->
 **Love** your enemies <br/>
 and **pray** for those who persecute you, <br/>
 that you may be children <br/>
@@ -79,6 +82,7 @@ Matthew 5:44-45 (NASB)
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-NEgEJmN3JZo-boardwalk_grass.jpg" -->
 Let every person be subject <br/>
 to the governing **authorities**.
 
@@ -91,6 +95,7 @@ Romans 13:1 (ESV)
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-BcjdbyKWquw-hush.jpg" -->
 Do not take an **oath** at all, <br/>
 either by **heaven**, for it is the throne of God, <br/>
 or by the **earth**, for it is his footstool, [...]
@@ -119,6 +124,7 @@ Matthew 5:34-37 (ESV)
 1. Church Discipline
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-llWjwo200fo-wedding_hands.jpg" -->
 Then the Lord God said, <br/>
 “It is not good for the man to be **alone**; <br/>
 I will make him a **helper suitable** for him.”
@@ -133,6 +139,7 @@ Genesis 2:18,24 (NASB)
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-agS-BtrQZrs-train_station.jpg" -->
 As the **church** is subject to Christ, so also <br/>
 the **wives** to their husbands in everything.
 
@@ -146,6 +153,7 @@ Ephesians 5:24-26 (NASB)
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-C2PvO6dOORY-girls_walk.jpg" -->
 Children, **obey** your parents in the **Lord**, <br/>
 for this is **right**.
 
@@ -158,6 +166,7 @@ Ephesians 6:1,4 (ESV)
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VMphSM-RqBo-snow_walking.jpg" -->
 Slaves, **obey** your earthly masters <br/>
 with **respect** and fear, [...] as slaves of **Christ**, <br/>
 doing the **will** of God from your **heart**.
@@ -183,6 +192,7 @@ Ephesians 6:5,6,9 (NIV)
 1. Church Discipline
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qYanN54gIrI-praying.jpg" -->
 When you **pray**, go into your **room** <br/>
 and shut the door <br/>
 and pray to your Father who is in **secret**.
@@ -198,6 +208,7 @@ Matthew 6:6-7 (ESV)
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
 Our **Father** in heaven, **hallowed** be your name. <br/>
 Your **kingdom** come, your **will** be done, <br/>
 on earth as it is in heaven.
@@ -225,6 +236,7 @@ Matthew 6:9-13 (ESV)
   + from Evil
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-3Kv48NS4WUU-road_forest_light.jpg" -->
 Likewise the **Spirit** helps us in our **weakness**. <br/>
 For we do not **know** <br/>
 what to pray for as we ought,
@@ -261,6 +273,7 @@ Romans 8:26 (ESV)
 1. **Church Discipline**
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-UOwvwZ9Dy6w-hold_hands.jpg" -->
 If your brother **sins** against you,  <br/>
 go and **tell** him his fault,  <br/>
 between you and him **alone**.
@@ -273,6 +286,7 @@ Matthew 16:15 (ESV) (p.1/2)
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
 But if he does **not** listen,  <br/>
 take **one** or **two** others along with you, [...] <br/>
 If he refuses to listen to them, <br/>
@@ -287,6 +301,7 @@ Matthew 16:16-17 (ESV) (p.2/2)
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VNjNtdu0yCw-kids_hug.jpg" -->
 If anyone is caught in any **trespass**, <br/>
 you who are **spiritual**,  <br/>
 restore such a one in a spirit of **gentleness**;
