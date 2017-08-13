@@ -189,6 +189,17 @@ Matthew 6:9-13 (ESV)
 </div>
 
 ---
+Likewise the **Spirit** helps us in our **weakness**. <br/>
+For we do not **know** what to pray for as we ought,
+
+but the Spirit himself **intercedes** for us  <br/>
+with **groanings** too deep for words.
+
+<div class="ref">
+Romans 8:26 (ESV)
+</div>
+
+---
 <!-- .slide: data-background="white" -->
 # Q3
 
