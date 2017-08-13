@@ -108,7 +108,7 @@ Matthew 5:34-37 (ESV)
 ---
 <!-- .slide: data-background="white" -->
 # How do I respond to **authority**?
-# How do I respond to those who are **argumentative**?
+# To those who are **argumentative**?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-3LOlnKre5XE-vancouver.jpg" -->
@@ -226,7 +226,8 @@ Matthew 6:9-13 (ESV)
 
 ---
 Likewise the **Spirit** helps us in our **weakness**. <br/>
-For we do not **know** what to pray for as we ought,
+For we do not **know** <br/>
+what to pray for as we ought,
 
 but the Spirit himself **intercedes** for us  <br/>
 with **groanings** too deep for words.
@@ -237,7 +238,7 @@ Romans 8:26 (ESV)
 
 ---
 <!-- .slide: data-background="white" -->
-# How should we **pray**?
+# How should <br> we **pray**?
 
 >>>
 + 7 **petitions**:
@@ -274,17 +275,19 @@ Matthew 16:15 (ESV) (p.1/2)
 ---
 But if he does **not** listen,  <br/>
 take **one** or **two** others along with you, [...] <br/>
-If he refuses to listen to them, tell it to the **church**.
+If he refuses to listen to them, <br/>
+tell it to the **church**.
 
 And if he refuses to listen even to the church,  <br/>
-let him be to you as a **Gentile** and a **tax collector**.
+let him be to you as a **Gentile** <br/>
+and a **tax collector**.
 
 <div class="ref">
 Matthew 16:16-17 (ESV) (p.2/2)
 </div>
 
 ---
-Brethren, even if anyone is caught in any **trespass**, <br/>
+If anyone is caught in any **trespass**, <br/>
 you who are **spiritual**,  <br/>
 restore such a one in a spirit of **gentleness**;
 
@@ -297,7 +300,7 @@ Galatians 6:1 (NASB)
 
 ---
 <!-- .slide: data-background="white" -->
-# How do I deal with a Christian who **sins**?
+# How do I deal <br/> with a Christian who **sins**?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-3LOlnKre5XE-vancouver.jpg" -->
