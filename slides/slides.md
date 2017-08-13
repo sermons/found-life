@@ -24,15 +24,6 @@
   1. **Consummation** <span class="ref">(wk 5)</span>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-3LOlnKre5XE-vancouver.jpg" -->
-## Wk4: Life and Conduct
-1. **Revenge** and Suffering
-  + Government and **Oaths**
-1. **Marriage** and Family
-1. **Prayer**
-1. Church **Discipline**
-
----
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-bEbqpPeHEM4-kneel_beach.jpg" -->
 For we are his **workmanship**, <br/>
 created in Christ Jesus for **good works**,
@@ -52,6 +43,14 @@ and **glorify** your Father who is in heaven
 <div class="ref">
 Matthew 5:16 (NASB)
 </div>
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-3LOlnKre5XE-vancouver.jpg" -->
+## Wk4: Life and Conduct
+1. **Revenge**, Government and Oaths
+1. **Marriage** and Family
+1. **Prayer**
+1. Church **Discipline**
 
 ---
 Never take your own **revenge**, beloved,  <br/>
@@ -111,7 +110,12 @@ Matthew 5:34-37 (ESV)
 # Q1
 
 ---
-## Outline
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-3LOlnKre5XE-vancouver.jpg" -->
+## Wk4: Life and Conduct
+1. Revenge, Government and Oaths
+1. **Marriage and Family**
+1. Prayer
+1. Church Discipline
 
 ---
 Then the Lord God said, <br/>
@@ -157,7 +161,12 @@ Ephesians 6:1,4 (ESV)
 # Q2
 
 ---
-## Outline
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-3LOlnKre5XE-vancouver.jpg" -->
+## Wk4: Life and Conduct
+1. Revenge, Government and Oaths
+1. Marriage and Family
+1. **Prayer**
+1. Church Discipline
 
 ---
 When you **pray**, go into your **room** <br/>
@@ -204,6 +213,54 @@ Romans 8:26 (ESV)
 ---
 <!-- .slide: data-background="white" -->
 # Q3
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-3LOlnKre5XE-vancouver.jpg" -->
+## Wk4: Life and Conduct
+1. Revenge, Government and Oaths
+1. Marriage and Family
+1. Prayer
+1. **Church Discipline**
+
+---
+If your brother **sins** against you,  <br/>
+go and **tell** him his fault,  <br/>
+between you and him **alone**.
+
+If he **listens** to you,  <br/>
+you have **gained** your brother.
+
+<div class="ref">
+Matthew 16:15 (ESV) (p.1/2)
+</div>
+
+---
+But if he does **not** listen,  <br/>
+take **one** or **two** others along with you, [...] <br/>
+If he refuses to listen to them, tell it to the **church**.
+
+And if he refuses to listen even to the church,  <br/>
+let him be to you as a **Gentile** and a **tax collector**.
+
+<div class="ref">
+Matthew 16:16-17 (ESV) (p.2/2)
+</div>
+
+---
+Brethren, even if anyone is caught in any **trespass**, <br/>
+you who are **spiritual**,  <br/>
+restore such a one in a spirit of **gentleness**;
+
+each one **looking** to yourself,  <br/>
+so that you too will not be **tempted**.
+
+<div class="ref">
+Galatians 6:1 (NASB)
+</div>
+
+---
+<!-- .slide: data-background="white" -->
+# Q4
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-3LOlnKre5XE-vancouver.jpg" -->
