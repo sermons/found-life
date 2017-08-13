@@ -27,10 +27,9 @@
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-3LOlnKre5XE-vancouver.jpg" -->
 ## Wk4: Life and Conduct
 1. **Revenge** and Suffering
-1. Government and **Oaths**
+  + Government and **Oaths**
 1. **Marriage** and Family
 1. **Prayer**
-1. **Knowing** and Doing
 1. Church **Discipline**
 
 ---
@@ -43,6 +42,37 @@ that we should **walk** in them.
 
 <div class="ref">
 Ephesians 2:10 (ESV)
+</div>
+
+---
+Let your **light** shine before men in <br/>
+such a way that they may see your **good works**, <br/>
+and **glorify** your Father who is in heaven
+
+<div class="ref">
+Matthew 5:16 (NASB)
+</div>
+
+---
+Never take your own **revenge**, beloved,  <br/>
+but leave **room** for the wrath of God,  <br/>
+
+for it is written,  <br/>
+“**Vengeance** is Mine, I will **repay**,” says the Lord.
+
+<div class="ref">
+Romans 12:19 (NASB)
+</div>
+
+---
+**Love** your enemies and **pray** for those who persecute you, <br/>
+that you may be children of your **Father** in heaven.
+
+He causes his **sun** to rise on the evil and the good, <br/>
+and sends **rain** on the righteous and the unrighteous.
+
+<div class="ref">
+Matthew 5:44-45 (NASB)
 </div>
 
 ---
@@ -71,6 +101,12 @@ Ephesians 2:10 (ESV)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-3LOlnKre5XE-vancouver.jpg" -->
-(closing)
+Let your **light** shine before men in <br/>
+such a way that they may see your **good works**, <br/>
+and **glorify** your Father who is in heaven
+
+<div class="ref">
+Matthew 5:16 (NASB)
+</div>
 
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-3LOlnKre5XE-vancouver.jpg" class="empty" -->
