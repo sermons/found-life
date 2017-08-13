@@ -80,17 +80,19 @@ Matthew 5:44-45 (NASB)
 </div>
 
 ---
-Let every person be subject to the governing **authorities**.
+Let every person be subject <br/>
+to the governing **authorities**.
 
 For there is no authority except **from God**,  <br/>
-and those that exist have been **instituted** by God.
+and those that exist <br/>
+have been **instituted** by God.
 
 <div class="ref">
 Romans 13:1 (ESV)
 </div>
 
 ---
-I say to you, Do not take an **oath** at all, <br/>
+Do not take an **oath** at all, <br/>
 either by **heaven**, for it is the throne of God, <br/>
 or by the **earth**, for it is his footstool, [...]
 
