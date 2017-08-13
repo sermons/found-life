@@ -114,13 +114,13 @@ Matthew 5:34-37 (ESV)
 ## Outline
 
 ---
-Then the Lord God said,
-“It is not good for the man to be **alone**;
+Then the Lord God said, <br/>
+“It is not good for the man to be **alone**; <br/>
 I will make him a **helper suitable** for him.”
 
-For this reason a man shall
-**leave** his father and his mother,
-and be **joined** to his wife;
+For this reason a man shall <br/>
+**leave** his father and his mother, <br/>
+and be **joined** to his wife; <br/>
 and they shall become **one flesh**.
 
 <div class="ref">
@@ -141,11 +141,11 @@ Ephesians 5:24-26 (NASB)
 </div>
 
 ---
-Children, **obey** your parents in the **Lord**,
+Children, **obey** your parents in the **Lord**, <br/>
 for this is **right**.
 
-Fathers, do not **provoke** your children to anger,
-but bring them up in the
+Fathers, do not **provoke** your children to anger, <br/>
+but bring them up in the <br/>
 **discipline** and **instruction** of the Lord.
 
 <div class="ref">
@@ -160,13 +160,15 @@ Ephesians 6:1,4 (ESV)
 ## Outline
 
 ---
-When you **pray**, go into your **room** and shut the door <br/>
+When you **pray**, go into your **room** <br/>
+and shut the door <br/>
 and pray to your Father who is in **secret**.
 
-And your Father who **sees** in secret will reward you.
+And your Father who **sees** in secret <br/>
+will reward you.
 
-And when you pray, do not heap up **empty phrases** <br/>
-as the Gentiles do
+And when you pray, do not heap up <br/>
+**empty phrases** as the Gentiles do
 
 <div class="ref">
 Matthew 6:6-7 (ESV)
@@ -213,4 +215,5 @@ and **glorify** your Father who is in heaven
 Matthew 5:16 (NASB)
 </div>
 
+---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-3LOlnKre5XE-vancouver.jpg" class="empty" -->
