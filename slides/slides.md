@@ -9,7 +9,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Q0
+# What **good works** are we to do?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
@@ -107,7 +107,8 @@ Matthew 5:34-37 (ESV)
 
 ---
 <!-- .slide: data-background="white" -->
-# Q1
+# How do I respond to **authority**?
+# How do I respond to those who are **argumentative**?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-3LOlnKre5XE-vancouver.jpg" -->
@@ -157,8 +158,21 @@ Ephesians 6:1,4 (ESV)
 </div>
 
 ---
+Slaves, **obey** your earthly masters <br/>
+with **respect** and fear, [...] as slaves of **Christ**, <br/>
+doing the **will** of God from your **heart**.
+
+[Masters], do not **threaten** them, <br/>
+since you know that he who is both <br/>
+their **Master** and yours is in heaven
+
+<div class="ref">
+Ephesians 6:5,6,9 (NIV)
+</div>
+
+---
 <!-- .slide: data-background="white" -->
-# Q2
+# What is my **responsibility** as husband / wife / child / parent / slave / master?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-3LOlnKre5XE-vancouver.jpg" -->
@@ -199,6 +213,17 @@ but **deliver** us from evil.
 Matthew 6:9-13 (ESV)
 </div>
 
+>>>
++ Spiritual blessings:
+  + Name of God
+  + Kingdom of God
+  + Will of God
++ Material blessings
++ Protection:
+  + from Guilt
+  + from Temptations
+  + from Evil
+
 ---
 Likewise the **Spirit** helps us in our **weakness**. <br/>
 For we do not **know** what to pray for as we ought,
@@ -212,7 +237,19 @@ Romans 8:26 (ESV)
 
 ---
 <!-- .slide: data-background="white" -->
-# Q3
+# How should we **pray**?
+
+>>>
++ 7 **petitions**:
++ Spiritual blessings:
+  + Name of God
+  + Kingdom of God
+  + Will of God
++ Material blessings
++ Protection:
+  + from Guilt
+  + from Temptations
+  + from Evil
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-3LOlnKre5XE-vancouver.jpg" -->
@@ -260,7 +297,7 @@ Galatians 6:1 (NASB)
 
 ---
 <!-- .slide: data-background="white" -->
-# Q4
+# How do I deal with a Christian who **sins**?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-3LOlnKre5XE-vancouver.jpg" -->
