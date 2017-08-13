@@ -160,7 +160,33 @@ Ephesians 6:1,4 (ESV)
 ## Outline
 
 ---
-(3)
+When you **pray**, go into your **room** and shut the door <br/>
+and pray to your Father who is in **secret**.
+
+And your Father who **sees** in secret will reward you.
+
+And when you pray, do not heap up **empty phrases** <br/>
+as the Gentiles do
+
+<div class="ref">
+Matthew 6:6-7 (ESV)
+</div>
+
+---
+Our **Father** in heaven, **hallowed** be your name. <br/>
+Your **kingdom** come, your **will** be done, <br/>
+on earth as it is in heaven.
+
+Give us this day our **daily bread**, <br/>
+and **forgive** us our debts, <br/>
+as we also have forgiven our **debtors**.
+
+And lead us not into **temptation**, <br/>
+but **deliver** us from evil.
+
+<div class="ref">
+Matthew 6:9-13 (ESV)
+</div>
 
 ---
 <!-- .slide: data-background="white" -->
