@@ -112,7 +112,43 @@ Matthew 5:34-37 (ESV)
 ## Outline
 
 ---
-(2)
+Then the Lord God said,
+“It is not good for the man to be **alone**;
+I will make him a **helper suitable** for him.”
+
+For this reason a man shall
+**leave** his father and his mother,
+and be **joined** to his wife;
+and they shall become **one flesh**.
+
+<div class="ref">
+Genesis 2:18,24 (NASB)
+</div>
+
+---
+As the **church** is subject to Christ, so also <br/>
+the **wives** to their husbands in everything.
+
+Husbands, **love** your wives,  <br/>
+just as **Christ** also loved the church  <br/>
+and **gave** Himself up for her,  <br/>
+so that He might **sanctify** her
+
+<div class="ref">
+Ephesians 5:24-26 (NASB)
+</div>
+
+---
+Children, **obey** your parents in the **Lord**,
+for this is **right**.
+
+Fathers, do not **provoke** your children to anger,
+but bring them up in the
+**discipline** and **instruction** of the Lord.
+
+<div class="ref">
+Ephesians 6:1,4 (ESV)
+</div>
 
 ---
 <!-- .slide: data-background="white" -->
