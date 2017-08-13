@@ -65,11 +65,15 @@ Romans 12:19 (NASB)
 </div>
 
 ---
-**Love** your enemies and **pray** for those who persecute you, <br/>
-that you may be children of your **Father** in heaven.
+**Love** your enemies <br/>
+and **pray** for those who persecute you, <br/>
+that you may be children <br/>
+of your **Father** in heaven.
 
-He causes his **sun** to rise on the evil and the good, <br/>
-and sends **rain** on the righteous and the unrighteous.
+He causes his **sun** to rise <br/>
+on the evil and the good, <br/>
+and sends **rain** <br/>
+on the righteous and the unrighteous.
 
 <div class="ref">
 Matthew 5:44-45 (NASB)
