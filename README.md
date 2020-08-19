@@ -2,7 +2,7 @@
 ## Christian Life and Conduct
 ## Matthew 5:16
 
-[![Build status](https://travis-ci.org/sermons/found-life.svg)](https://travis-ci.org/sermons/found-life)
+[![Build status](https://api.travis-ci.com/sermons/found-life.svg)](https://travis-ci.com/github/sermons/found-life)
 [![Node deps](https://david-dm.org/sermons/found-life.svg)](https://david-dm.org/sermons/found-life)
 [![Node devDeps](https://david-dm.org/sermons/found-life/dev-status.svg)](https://david-dm.org/sermons/found-life?type=dev)
 
